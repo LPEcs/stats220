@@ -22,7 +22,7 @@ This meme was created using `R`, but also included using the [{Magick}](https://
 
 * I wanted something that was original *enough*, but also had some truth behind it
 * I knew that the *derpy* spongebob image would be great to use, especially in reference with the text, as most people always point out the obvious, which in fairness, sometimes can be the issue, however, most of the time is not. 
-* A reference to the meme I adapted mine too can be found [here](https://en.meming.world/images/en/thumb/7/7d/Mocking_SpongeBob_meme_4.jpg/240px-Mocking_SpongeBob_meme_4.jpg)
+* A reference to the meme I adapted mine from can be found [here](https://en.meming.world/images/en/thumb/7/7d/Mocking_SpongeBob_meme_4.jpg/240px-Mocking_SpongeBob_meme_4.jpg)
 
 ![](https://en.meming.world/images/en/thumb/7/7d/Mocking_SpongeBob_meme_4.jpg/240px-Mocking_SpongeBob_meme_4.jpg)
 
