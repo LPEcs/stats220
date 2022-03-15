@@ -1,7 +1,7 @@
-# stats220
+# `STATS220`
 
 ## Purpose for the creation of this repository:
-This Repository was created for the course `Stats220`, As a means to show the work produced throughout Semester One 2022
+This Repository was created for the course `STATS220`, As a means to show the work produced throughout Semester One 2022
 ## Github Page Where my work is Showcased
 https://lpecs.github.io/stats220/
 
