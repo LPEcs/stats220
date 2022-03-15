@@ -48,7 +48,7 @@ annotation_1 <- image_blank(width = 500,
                  font = "calibri",
                  gravity = "center")
 
-#creating the second annotation
+# creating the second annotation
 annotation_2 <- image_blank(width = 500,
                             height = 90,
                             color = "#FFFFFF") %>% 
@@ -58,15 +58,15 @@ annotation_2 <- image_blank(width = 500,
                  font = "calibri",
                  gravity = "center")
 
-#joining the two annotations together
+# joining the two annotations together
 annotations <- c(annotation_1, annotation_2) %>% 
   image_append(stack = TRUE)
 
-#joining the annotations to the initial image
+# joining the annotations to the initial image
 meme <- c(annotations, spongebob_meme) %>% 
   image_append(stack = TRUE)
 
-#calling the "meme" image to print
+# calling the "meme" image to print
 meme
 ```
 *left out the line where it writes the meme to disk*
