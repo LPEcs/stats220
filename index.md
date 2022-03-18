@@ -14,7 +14,7 @@ I have created this page to showcase my work for **Assignment one** which will i
 
 This meme was created using `R`, but also included using the [{Magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package
 
-*A very robust and powerfull package that most `R` users should utalise!!*
+*A very robust and powerfull package that most `R` users should utilise!!*
 
 ![](spongebobmeme.png)
 
