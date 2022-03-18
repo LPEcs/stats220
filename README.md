@@ -6,7 +6,7 @@ This Repository was created for the course `STATS220`, As a means to show the wo
 ## Reasons your should keep an eye this Repo:
 
 * Creative ideas and projects
-* Good content ( ͡° ͜ʖ ͡°)
+* Good content ヾ(⌐■_■)ノ♪
 
 ## Github Page Where my work is Showcased
 https://lpecs.github.io/stats220/
