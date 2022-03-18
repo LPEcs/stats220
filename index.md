@@ -74,3 +74,5 @@ meme
 ## How my adaptation is different to the original:
 
 In the original meme, there is either no text, or both of the texts are the same, with the bottom line mimicing the top line in the uppercase, lowercase format. However in My adaptation, instead of mimicing the above line, I added a reference to what most people comment when others are asking for help regarding their code. I also added `image_oilpaint()` and `image_oilnoise()` for a little extra spicyness ;)
+
+<link rel="stylesheet" href="stylesheet.css" type="text">
